@@ -28,7 +28,7 @@ body {
   /* The sticky class is added to the navbar with JS when it reaches its scroll position */
   .sticky {
     position: fixed;
-    top: 0;
+    top: 50px;
     width: 100%;
   }
   
